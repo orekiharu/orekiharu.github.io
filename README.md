@@ -1,2 +1,4 @@
-# orekiharu.github.io
-mis cosas
+
+## Ubuntu
+
+* [Configurar ubuntu por primera vez](ubuntu/ubuntu.md)
